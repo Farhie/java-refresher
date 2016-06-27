@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-problems.iml" filepath="$PROJECT_DIR$/.idea/modules/java-problems.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-problems_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-problems_main.iml" group="java-problems" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-problems_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-problems_test.iml" group="java-problems" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-refresher.iml" filepath="$PROJECT_DIR$/.idea/modules/java-refresher.iml" />
     </modules>
   </component>
 </project>
